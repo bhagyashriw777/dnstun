@@ -6,7 +6,7 @@ require (
 	github.com/acomagu/bufpipe v1.0.4
 	github.com/golang/protobuf v1.5.3
 	github.com/hashicorp/yamux v0.1.1
-	github.com/kost/chashell v0.0.0-20230409212000-cf0fbd106275
+	github.com/bhagyashri777/chashell v0.0.0-20230409212000-cf0fbd106275
 	github.com/miekg/dns v1.1.53
 )
 
