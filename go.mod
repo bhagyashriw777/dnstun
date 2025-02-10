@@ -1,4 +1,4 @@
-module github.com/kost/dnstun
+module github.com/bhagyashriw777/dnstun
 
 go 1.19
 
